@@ -1,3 +1,5 @@
-# STEMANITIES
+# Representation Bias in Transfer Learning
 
-This repo contains materials I worked on for my STEMANITIES 2020 project. My project was one of the 10 national finalists. Unfortunately, the event had to be cancelled due to Covid-19 and no winners were announced.
+This repo contains code related to the investiagation of representation bias propagation in VGG-Face model fine-tuned for the task of face recognition. Submitted to Stemanities 2020 research competition. Named one of the ten national finalists.
+
+Research paper [here](https://github.com/udvattam/Stemanities/blob/master/STEMANITIES-report.pdf)
